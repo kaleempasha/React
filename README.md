@@ -1,17 +1,17 @@
 # React
 
-Order
-Customer
-Assignee
-Contacts
-SKU
-Payments
-Call feature for mobile no.
-Share Order
-Share Quote
-Share Payment Receipt
-Due Payments Notification
-Order Ready Notification
-Delivery Notification
-Assignee Notification
-Convert Quote to Order
+1. Order
+2. Customer
+3. Assignee
+4. Contacts
+5. SKU
+6. Payments
+7. Call feature for mobile no.
+8. Share Order
+9. Share Quote
+10. Share Payment Receipt
+11. Due Payments Notification
+12. Order Ready Notification
+13. Delivery Notification
+14. Assignee Notification
+15. Convert Quote to Order

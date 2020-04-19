@@ -1,5 +1,5 @@
 # React
-
+Phase 1 Development
 1. Order
 2. Customer
 3. Assignee
@@ -7,6 +7,8 @@
 5. SKU
 6. Payments
 7. Call feature for mobile no.
+
+Phase 2 Development
 8. Share Order
 9. Share Quote
 10. Share Payment Receipt

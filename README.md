@@ -9,11 +9,11 @@ Phase 1 Development
 7. Call feature for mobile no.
 
 Phase 2 Development
-8. Share Order
-9. Share Quote
-10. Share Payment Receipt
-11. Due Payments Notification
-12. Order Ready Notification
-13. Delivery Notification
-14. Assignee Notification
-15. Convert Quote to Order
+1. Share Order
+2. Share Quote
+3. Share Payment Receipt
+4. Due Payments Notification
+5. Order Ready Notification
+6. Delivery Notification
+7. Assignee Notification
+8. Convert Quote to Order

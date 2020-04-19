@@ -1,4 +1,4 @@
-# React
+# React Redux Material UI IndexedDB
 Phase 1 Development
 1. Order
 2. Customer

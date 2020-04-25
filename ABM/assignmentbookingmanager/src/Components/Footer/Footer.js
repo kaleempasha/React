@@ -3,9 +3,9 @@ import { Link } from "react-router-dom"
 import { BottomNavigation, BottomNavigationAction } from "@material-ui/core"
 import {
   AssignmentInd,
-  BookRounded,
+  LibraryBooks,
   CalendarToday,
-  Payment
+  Receipt
 } from "@material-ui/icons"
 
 class Footer extends Component {
@@ -15,9 +15,9 @@ class Footer extends Component {
         <BottomNavigationAction
           component={Link}
           to="/dashboard"
-          label="Home"
+          label="Dashboard"
           value="dashboard"
-          icon={<CalendarToday />}
+          icon={<CalendarToday color="secondary" />}
           showLabel={true}
         />
         <BottomNavigationAction
@@ -25,7 +25,7 @@ class Footer extends Component {
           to="/assignment"
           label="My Work"
           value="assignment"
-          icon={<AssignmentInd />}
+          icon={<AssignmentInd color="secondary" />}
           showLabel={true}
         />
         <BottomNavigationAction
@@ -33,7 +33,7 @@ class Footer extends Component {
           to="/booking"
           label="Book Order"
           value="booking"
-          icon={<BookRounded />}
+          icon={<LibraryBooks color="secondary" />}
           showLabel={true}
         />
         <BottomNavigationAction
@@ -41,7 +41,7 @@ class Footer extends Component {
           to="/payment"
           label="Payments"
           value="payment"
-          icon={<Payment />}
+          icon={<Receipt color="secondary" />}
           showLabel={true}
         />
       </BottomNavigation>
